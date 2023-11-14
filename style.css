@@ -1,0 +1,21 @@
+.square1{
+    width: 800px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 25px;
+    border-radius: 10px;
+   margin-left: 25%;
+   text-align: center;
+   text-decoration: underline;
+   
+}
+.square2{
+    width: 800px;
+    height: 150px;
+    background-color: aqua;
+    margin-top: 25px;
+    border-radius: 10px;
+    margin-left: 25%;
+    text-align: center;
+  text-decoration: underline;
+}
